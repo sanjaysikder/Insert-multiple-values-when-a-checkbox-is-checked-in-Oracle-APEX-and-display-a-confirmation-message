@@ -8,9 +8,9 @@
 
 ![alt text](image.png)
 
-# Dynamic action PL/SQL Code
+# Dynamic action PL/SQL Code 
 
-```PL/SQL code
+```PL/SQL code count loop
 
 DECLARE
     l_ids apex_t_varchar2;

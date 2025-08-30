@@ -1,0 +1,1 @@
+# Insert-multiple-values-when-a-checkbox-is-checked-in-Oracle-APEX-and-display-a-confirmation-message
